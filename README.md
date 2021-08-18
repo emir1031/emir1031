@@ -87,18 +87,21 @@
 
 <p align="center">
 <a href="https://github.com/emir1031/emir1031">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_ITF_FUNDAMENTALS&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_ITF_FUNDAMENTALS&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/02_DS_DATA_SCIENCE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_DS_DATA_SCIENCE&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_DS_DATA_SCIENCE&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/03_PYTHON_QA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PYTHON_QA&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PYTHON_QA&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/04_PERSONAL_UDEMY_TRAINING">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=04_PERSONAL_UDEMY_TRAINING&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=04_PERSONAL_UDEMY_TRAINING&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/05_CERTIFICATES">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=05_CERTIFICATES&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=05_CERTIFICATES&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/06_EDA_PROJECTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=06_EDA_PROJECTS&theme=algolia" />
 </a>
 </p>
