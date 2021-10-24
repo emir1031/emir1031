@@ -86,7 +86,7 @@
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
 <p align="center">
-<a href="https://github.com/emir1031/emir1031">
+<a href="https://github.com/emir1031/01_ITF_FUNDAMENTALS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_ITF_FUNDAMENTALS&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/02_DS_DATA_SCIENCE">
