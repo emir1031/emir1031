@@ -2,17 +2,11 @@
 <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="500px">
 </div>
 
-<div align="center"> <h1 align="center"> Hi There! This is J.SOCIETY 👋 </h1> </div>
+<div align="center"> <h1 align="center"> Hi There! This is EMIR 👋 </h1> </div>
 
-<p align="center">
-- :telescope: I’m currently working on Data Analyses
-</p>
-<p align="center">
-- :seedling: I’m currently learning Data Analyses tools 
-</p>
-<p align="center">
-- :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer 
-</p>
+<h3 align="center">
+- :telescope: A self-motivated tech enthusiast and Data Scientist from POLAND
+</h3>
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 
