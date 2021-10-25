@@ -4,9 +4,7 @@
 
 <div align="center"> <h1 align="center"> Hi There! This is EMIR 👋 </h1> </div>
 
-<h3 align="center">
-- :telescope: A self-motivated tech enthusiast and Data Scientist from POLAND
-</h3>
+<h3 align="center">:💬: A self-motivated tech enthusiast and Data Scientist from POLAND</h3>
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 
@@ -80,22 +78,34 @@
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
 <p align="center">
-<a href="https://github.com/emir1031/01_ITF_FUNDAMENTALS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_ITF_FUNDAMENTALS&theme=algolia" />
+<a href="https://github.com/emir1031/01_DATA_SCIENCE_NOTEBOOK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_DATA_SCIENCE_NOTEBOOK&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/02_DS_DATA_SCIENCE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_DS_DATA_SCIENCE&theme=algolia" />
+<a href="https://github.com/emir1031/02_ASSIGNMENTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_ASSIGNMENTS&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/03_PYTHON_QA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PYTHON_QA&theme=algolia" />
+<a href="https://github.com/emir1031/03_PROJECTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PROJECTS&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/04_PERSONAL_UDEMY_TRAINING">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=04_PERSONAL_UDEMY_TRAINING&theme=algolia" />
+<a href="https://github.com/emir1031/04_PYTHON">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=04_PYTHON&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/05_CERTIFICATES">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=05_CERTIFICATES&theme=algolia" />
+<a href="https://github.com/emir1031/05_SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=05_SQL&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/06_EDA_PROJECTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=06_EDA_PROJECTS&theme=algolia" />
+<a href="https://github.com/emir1031/06_GSS_SPREADSHEET">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=06_GSS_SPREADSHEETS&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/07_TABLEAU">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=07_TABLEAU&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/08_HTML_CSS_JAVASCRIPT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=08_HTML_CSS_JAVASCRIPT&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/09_STATISTICS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=09_STATISTICS&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/10_CERTIFICATES">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=10_CERTIFICATES&theme=algolia" />
 </a>
 </p>
