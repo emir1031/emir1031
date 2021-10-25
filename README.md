@@ -78,8 +78,8 @@
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
 <p align="center">
-<a href="https://github.com/emir1031/01_DATA_SCIENCE_NOTEBOOK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_DATA_SCIENCE_NOTEBOOK&theme=algolia" />
+<a href="https://github.com/emir1031/01_DATA_SCIENCE_NOTEBOOKS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_DATA_SCIENCE_NOTEBOOKS&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/02_ASSIGNMENTS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_ASSIGNMENTS&theme=algolia" />
@@ -94,7 +94,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=05_SQL&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/06_GSS_SPREADSHEET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=06_GSS_SPREADSHEETS&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=06_GSS_SPREADSHEET&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/07_TABLEAU">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=07_TABLEAU&theme=algolia" />
