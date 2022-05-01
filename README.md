@@ -4,7 +4,7 @@
 
 <div align="center"> <h1 align="center"> Hi There! This is EMIR 👋 </h1> </div>
 
-<h3 align="center">💬 A self-motivated tech enthusiast and Data Scientist from POLAND 💬</h3>
+<h3 align="center">💬 A self-motivated tech enthusiast and Engineer from POLAND 💬</h3>
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 
