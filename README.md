@@ -1,6 +1,8 @@
-/*<div align="center">
+<!-- 
+<div align="center">
 <img src="https://media.giphy.com/media/cJuJI2ttlpJ1jkiPFz/giphy.gif" width="500px">
-</div>*/
+</div>
+-->
 
 <div align="center"> <h1 align="center"> Hi There! This is EMIR 👋 </h1> </div>
 
